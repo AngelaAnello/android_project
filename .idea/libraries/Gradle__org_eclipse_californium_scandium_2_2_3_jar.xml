@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.californium:scandium:2.2.3@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.californium/scandium/2.2.3/da059b718555168d081c696e9afeff52d6327926/scandium-2.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.californium/scandium/2.2.3/73d2ecf1f99bae44af8453e3804c93e25cd85fb7/scandium-2.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.californium/scandium/2.2.3/875d6dcab622a8f45ebc6fe5d46cde493a1b0bfc/scandium-2.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

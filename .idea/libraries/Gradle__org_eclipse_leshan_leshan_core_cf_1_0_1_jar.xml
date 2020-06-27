@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.leshan:leshan-core-cf:1.0.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.leshan/leshan-core-cf/1.0.1/d7d2c7112b24d4f6df9c6b39aef1db12e21c1be1/leshan-core-cf-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.leshan/leshan-core-cf/1.0.1/10ca2bb51bf039df7c45adf45f6ef737f5af5613/leshan-core-cf-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.leshan/leshan-core-cf/1.0.1/33a0e0d167d32deba90e503609bec4519bf2663a/leshan-core-cf-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

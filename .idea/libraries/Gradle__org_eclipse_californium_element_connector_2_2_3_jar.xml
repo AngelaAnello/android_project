@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.californium:element-connector:2.2.3@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.californium/element-connector/2.2.3/fe602c8777e64d399a7f5c7ac1e17e311afe5df7/element-connector-2.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.californium/element-connector/2.2.3/f21481f0e7bee17a6172c513aa4bfb59ecd060dc/element-connector-2.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.californium/element-connector/2.2.3/1c17aecf4d14332da9043beab4029ab572244762/element-connector-2.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
