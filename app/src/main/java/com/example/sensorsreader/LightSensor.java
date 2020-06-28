@@ -59,12 +59,4 @@ public class LightSensor extends BaseInstanceEnabler {
         }
         return ExecuteResponse.notFound();
     }
-
-    @Override
-    public ObserveResponse observe(ServerIdentity identity, int resourceid) {
-        // Perform a read by default
-        ReadResponse readResponse = this.read(identity, resourceid);
-        return new ObserveResponse(readResponse.getCode(), readResponse.getContent(), null, null,
-                readResponse.getErrorMessage());
-    }
 }
